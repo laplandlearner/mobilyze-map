@@ -1,10 +1,26 @@
-# Getting Started with Create React App
+# Mobilyze Map - React Test Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a solution to the practical task given as part of the recruitment process for Mobilyze. It implements a user-friendly interface map that combines geolocation functionalities with a dynamic list management system using the React framework.
 
-## Available Scripts
+## Live Demo
+
+You can check the live demo [here](https://laplandlearner.github.io/mobilyze-map/).
+
+## Getting Started
+
+To get a local copy of this project up and running on your machine, follow these steps:
+
+```git clone https://github.com/laplandlearner/mobilyze-map.git```
+
+Navigate into the project directory:
+```cd mobilyze-map```
+
+If you wanna install modules, you can run:
+
+### `yarn install`
 
 In the project directory, you can run:
+
 
 ### `yarn start`
 
@@ -39,8 +55,13 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## `Dependencies`
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- React: ^18.2.0
+- Leaflet: ^1.9.4
+- React-Leaflet: ^4.2.1
+- Redux Toolkit: ^2.2.3
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## `Notes`
+
+This project is solely for recruitment purposes and will not be used for any internal or external projects of Mobilyze.
