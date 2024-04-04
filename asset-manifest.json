@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mobilyze-map/static/css/main.b2e89e8a.css",
+    "main.js": "/mobilyze-map/static/js/main.96aa14f0.js",
+    "static/js/453.bdcbc045.chunk.js": "/mobilyze-map/static/js/453.bdcbc045.chunk.js",
+    "index.html": "/mobilyze-map/index.html",
+    "main.b2e89e8a.css.map": "/mobilyze-map/static/css/main.b2e89e8a.css.map",
+    "main.96aa14f0.js.map": "/mobilyze-map/static/js/main.96aa14f0.js.map",
+    "453.bdcbc045.chunk.js.map": "/mobilyze-map/static/js/453.bdcbc045.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2e89e8a.css",
+    "static/js/main.96aa14f0.js"
+  ]
+}
